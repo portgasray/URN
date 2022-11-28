@@ -10,3 +10,6 @@
 [submodule "Monte_Carlo_Localization"]
 	path = Monte_Carlo_Localization
 	url = git@github.com:portgasray/Monte_Carlo_Localization.git
+[submodule "Occupancy_Grid_Mapping_Algorithm"]
+	path = Occupancy_Grid_Mapping_Algorithm
+	url = git@github.com:portgasray/Occupancy_Grid_Mapping_Algorithm.git
