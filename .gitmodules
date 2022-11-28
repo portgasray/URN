@@ -7,3 +7,6 @@
 [submodule "robond-go_chase_it"]
 	path = robond-go_chase_it
 	url = git@github.com:portgasray/robond-go_chase_it.git
+[submodule "Monte_Carlo_Localization"]
+	path = Monte_Carlo_Localization
+	url = git@github.com:portgasray/Monte_Carlo_Localization.git
