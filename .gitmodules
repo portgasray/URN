@@ -1,3 +1,6 @@
 [submodule "gazebo_build_my_world"]
 	path = gazebo_build_my_world
 	url = git@github.com:portgasray/gazebo_build_my_world.git
+[submodule "EKFLab"]
+	path = EKFLab
+	url = https://github.com/portgasray/EKFLab
