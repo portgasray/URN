@@ -13,3 +13,6 @@
 [submodule "Occupancy_Grid_Mapping_Algorithm"]
 	path = Occupancy_Grid_Mapping_Algorithm
 	url = git@github.com:portgasray/Occupancy_Grid_Mapping_Algorithm.git
+[submodule "localization_where_am_i"]
+	path = localization_where_am_i
+	url = git@github.com:portgasray/localization_where_am_i.git
