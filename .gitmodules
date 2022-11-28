@@ -4,3 +4,6 @@
 [submodule "EKFLab"]
 	path = EKFLab
 	url = https://github.com/portgasray/EKFLab
+[submodule "robond-go_chase_it"]
+	path = robond-go_chase_it
+	url = git@github.com:portgasray/robond-go_chase_it.git
