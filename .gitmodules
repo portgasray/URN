@@ -19,3 +19,6 @@
 [submodule "RoboND-map_my_world"]
 	path = RoboND-map_my_world
 	url = git@github.com:portgasray/RoboND-map_my_world.git
+[submodule "RoboND_home_service_robot"]
+	path = RoboND_home_service_robot
+	url = git@github.com:portgasray/RoboND_home_service_robot.git
