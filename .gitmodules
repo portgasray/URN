@@ -16,3 +16,6 @@
 [submodule "localization_where_am_i"]
 	path = localization_where_am_i
 	url = git@github.com:portgasray/localization_where_am_i.git
+[submodule "RoboND-map_my_world"]
+	path = RoboND-map_my_world
+	url = git@github.com:portgasray/RoboND-map_my_world.git
